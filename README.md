@@ -1,5 +1,10 @@
 # WeatherApp - iOS - MVP + Clean Architecture Demo
 
+<p align="center">
+
+<img src="Screenshot.png">
+</p> 
+
 ### High Level Layers
 
 #### MVP Concepts
