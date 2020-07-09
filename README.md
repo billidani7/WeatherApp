@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="Screenshot.png">
+<img src="Screenshot.png" width="280">
 </p> 
 
 ### High Level Layers
