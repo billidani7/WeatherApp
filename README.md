@@ -1,4 +1,4 @@
-# WeatherApp
+# WeatherApp - iOS - MVP + Clean Architecture Demo
 
 ### High Level Layers
 
@@ -200,3 +200,15 @@ class CitiesTableViewController: UITableViewController, CitiesView {
    
     -   `CoreDataCitiesGatewayTest`  - highlights how you can test a  `CoreData`  gateway
     -   `ApiClientTest`  - highlights how you can test the API / Networking layer of your application by substituting the  `URLSession`  stack
+
+
+### References 
+#### MVP & Other presentation patterns
+-   [iOS Architecture Patterns](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52#.67lieoiim)
+-  [Architecture Wars - A New Hope](https://swifting.io/blog/2016/09/07/architecture-wars-a-new-hope/)
+
+#### Clean Architecture
+
+-   [The Clean Architecture, by Uncle Bob](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
+-   [Architecture: The Lost Years, by Uncle Bob](https://www.youtube.com/watch?v=HhNIttd87xs)
+-   [Clean Architecture, By Uncle Bob](https://8thlight.com/blog/uncle-bob/2011/11/22/Clean-Architecture.html)
