@@ -1,4 +1,5 @@
-# WeatherApp - iOS - MVP + Clean Architecture Demo
+# WeatherApp - iOS - MVP + Clean Architecture Demo 
+[![Build Status](https://travis-ci.com/billidani7/WeatherApp.svg?branch=master)](https://travis-ci.com/billidani7/WeatherApp)
 
 <p align="center">
 
