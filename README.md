@@ -7,7 +7,7 @@
 
 ### High Level Layers
 
-#### MVP Concepts
+### MVP Concepts
 
 ##### Presentation Logic
 
@@ -30,7 +30,7 @@
     -   Usually we try to keep it really simple and we don't write Unit Tests for it
     -   It is usually referenced only by the  `Presenter`  
 
-#### Clean Architecture Concepts
+### Clean Architecture Concepts
 ##### Application Logic
 -   `UseCase / Interactor`  - contains the application / business logic for a specific use case in your application
 	-  Mediates between the presenter and the data. It takes direction from the presenter.
